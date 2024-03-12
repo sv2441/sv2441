@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandeep Vishwakarma</h1>
-<h3 align="center">Freelancer || MTech in AIML from SIT Pune (Pursuing) || Machine Learning ||Computer Vision||Natural Language Processing || Deep learning|| Robotics||</h3>
+<h3 align="center">Freelancer || MTech in AIML || Machine Learning || Natural Language Processing || Deep learning || Robotics|| GenAI || LLMs ||</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sv2441&label=Profile%20views&color=0e75b6&style=flat" alt="sv2441" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Transformers and Pre trained Models**
 
-- 👨‍💻 All of my projects are available at [https://sv2441.github.io/sandeepp/](https://sv2441.github.io/sandeepp/)
+- 👨‍💻 All of my projects are available at [https://sv2441.github.io/sandeepp/](sandeepvishwakarma.in)
 
 - 💬 Ask me about **Machine learning , Deep learning ,Python , Robotics , IOT**
 
