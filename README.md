@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Transformers and Pre trained Models**
 
-- 👨‍💻 All of my projects are available at [https://sv2441.github.io/sandeepp/](sandeepvishwakarma.in)
+- 👨‍💻 All of my projects are available at [sandeepvishwakarma.in](sandeepvishwakarma.in)
 
 - 💬 Ask me about **Machine learning , Deep learning ,Python , Robotics , IOT**
 
